@@ -18,6 +18,7 @@ Koustubh -----------------------------------------------------------------------
 . Hobbies.Hardware: .............. PC Building, PC Troubleshooting, Overclocking
 
 . Focus: .................................................. Software Engineering
+. Major certifications from: ................................ Tata, IBM, Skillup
 . Learning: ........ DSA, System Design, Software development, Computer hardware
 
 Contact ------------------------------------------------------------------------
