@@ -27,7 +27,7 @@ Contact ------------------------------------------------------------------------
 . Instagram: ......................................................................................... koustubh_suhas_mandle 
 
 ```
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=K-SuhasM&" alt="K-SuhasM" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=k-suhasm&" alt="k-suhasm" /></p>
 
 <h3 align="right">Connect with me: </h3>               
 
