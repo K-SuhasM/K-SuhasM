@@ -64,7 +64,7 @@ Last updated: 26-07-26
       <p>
         <a href="https://linkedin.com/in/koustubh-suhas-mandle-34b054217" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> &nbsp;&nbsp;
         <a href="https://instagram.com/koustubh_suhas_mandle" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> &nbsp;&nbsp;
-        <a href="https://github.com/koustubh-suhas-mandle" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+        <a href="https://github.com/K-SuhasM" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
       </p>
     </td>
   </tr>
