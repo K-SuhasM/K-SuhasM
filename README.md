@@ -28,14 +28,13 @@ Contact ------------------------------------------------------------------------
 . Instagram: ......................................................................................... koustubh_suhas_mandle 
 
 Last updated: 26-07-26
-
 ```
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=K-SuhasM&theme=rose" width="51%" alt="GitHub Streak" />
   </a>
-  <a href="https://github-stats-extended.vercel.app/api?username=K-SuhasM&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=K-SuhasM&include_all_commits=true&theme=rose">
-    <img src="https://github-stats-extended.vercel.app/api?username=K-SuhasM&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=K-SuhasM&include_all_commits=true&theme=rose" width="46.5%" alt="GitHub Stats" />
+  <a href="https://github-stats-extended.vercel.app/api?username=K-SuhasM&rank_icon=percentile&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=K-SuhasM&include_all_commits=true&theme=rose">
+    <img src="https://github-stats-extended.vercel.app/api?username=K-SuhasM&rank_icon=percentile&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=K-SuhasM&include_all_commits=true&theme=rose" width="46.5%" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
