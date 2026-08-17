@@ -3,7 +3,7 @@
 Hi, I'm <a href="https://www.linkedin.com/in/koustubh-suhas-mandle-34b054217/">Koustubh</a>, a final year B.Tech CSE student based in Maharashtra, India.<br>
 I’m currently working on [FileFlow](https://github.com/K-SuhasM/FileFlow). <br>
 I build projects, design UI, and develop software based on ideas I can imagine. <br>
-My favourite tech is Python which i'm developing in continuously.
+My favourite tech is Python which i'm developing in continuously...
 
 ```
 Koustubh ------------------------------------------------------------------------------------------------------------------
