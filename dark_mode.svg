@@ -61,7 +61,7 @@
     <text x="560" y="371" fill="#fda354"> Followers:</text>
     <text id="follower_data" x="649" y="371" fill="#296a9f">29</text>
 
-    <text x="20" y="414" fill="#fda354">Last manual update: 30-08-26</text>
+    <text x="20" y="414" fill="#bcc9d6">Last manual update:...............................................................30-08-26</text>
 
   </g>
 </svg>
