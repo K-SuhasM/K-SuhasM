@@ -1,0 +1,46 @@
+name: Update GitHub Profile
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Update profile statistics
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+        run: |
+          python update.py
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add light_mode.svg dark_mode.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub statistics"
+
+          git push
