@@ -55,7 +55,7 @@
     <ns0:text id="star_data" x="380" y="371" fill="#296a9f">66</ns0:text>
 
     <ns0:text x="430" y="371" fill="#fda354">Commits:</ns0:text>
-    <ns0:text id="commit_data" x="510" y="371" fill="#296a9f">143</ns0:text>
+    <ns0:text id="commit_data" x="510" y="371" fill="#296a9f">149</ns0:text>
 
     <ns0:text x="560" y="371" fill="#fda354"> Followers:</ns0:text>
     <ns0:text id="follower_data" x="635" y="371" fill="#296a9f">29</ns0:text>
