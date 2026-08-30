@@ -2,6 +2,8 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 
+ET.register_namespace("", "http://www.w3.org/2000/svg")
+
 USERNAME = os.environ["USER_NAME"]
 TOKEN = os.environ["ACCESS_TOKEN"]
 
@@ -57,15 +59,11 @@ stars = sum(
 
 followers = data["followers"]["totalCount"]
 
-commits = data[
-    "contributionsCollection"
-]["totalCommitContributions"]
+commits = data["contributionsCollection"]["totalCommitContributions"]
 
 
 def update_svg(filename):
 
-    ET.register_namespace("", "http://www.w3.org/2000/svg")
-    
     tree = ET.parse(filename)
     root = tree.getroot()
 
@@ -84,7 +82,7 @@ def update_svg(filename):
 
     tree.write(
         filename,
-        encoding="unicode",
+        encoding="UTF-8",
         xml_declaration=True
     )
 
