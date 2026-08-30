@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390">
+  <rect x="1" y="1" width="898" height="388" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+
+  <g font-family="monospace" font-size="13">
+    <text x="450" y="28" text-anchor="middle" fill="#0969da">YOUR_USERNAME</text>
+
+    <text x="145" y="55" fill="#bc4c00">OS:</text>
+    <text x="235" y="55" fill="#0969da">Windows 11, Android 16, Linux</text>
+
+    <text x="145" y="74" fill="#bc4c00">Uptime:</text>
+    <text x="235" y="74" fill="#0969da">21 years, 0 months, 0 days</text>
+
+    <text x="145" y="93" fill="#bc4c00">Host:</text>
+    <text x="235" y="93" fill="#0969da">YOUR_HOST</text>
+
+    <text x="145" y="112" fill="#bc4c00">Kernel:</text>
+    <text x="235" y="112" fill="#0969da">YOUR_KERNEL</text>
+
+    <text x="145" y="131" fill="#bc4c00">IDE:</text>
+    <text x="235" y="131" fill="#0969da">VSCode, PyCharm</text>
+
+    <text x="145" y="160" fill="#bc4c00">Languages.Programming:</text>
+    <text x="385" y="160" fill="#0969da">Python, C, C++, JavaScript</text>
+
+    <text x="145" y="179" fill="#bc4c00">Languages.Computer:</text>
+    <text x="385" y="179" fill="#0969da">HTML, CSS, JSON, SQL</text>
+
+    <text x="145" y="198" fill="#bc4c00">Languages.Real:</text>
+    <text x="385" y="198" fill="#0969da">English, Marathi, Hindi</text>
+
+    <text x="145" y="227" fill="#bc4c00">Hobbies.Software:</text>
+    <text x="385" y="227" fill="#0969da">AI, Programming, Modding</text>
+
+    <text x="145" y="246" fill="#bc4c00">Hobbies.Hardware:</text>
+    <text x="385" y="246" fill="#0969da">PC Building, Overclocking</text>
+
+    <text x="145" y="275" fill="#bc4c00">- Contact -</text>
+
+    <text x="145" y="294" fill="#bc4c00">Email.Personal:</text>
+    <text x="310" y="294" fill="#0969da">YOUR_EMAIL</text>
+
+    <text x="145" y="313" fill="#bc4c00">LinkedIn:</text>
+    <text x="310" y="313" fill="#0969da">YOUR_LINKEDIN</text>
+
+    <text x="145" y="332" fill="#bc4c00">Discord:</text>
+    <text x="310" y="332" fill="#0969da">YOUR_DISCORD</text>
+
+    <text x="145" y="361" fill="#bc4c00">- GitHub Stats -</text>
+
+    <text x="315" y="361" fill="#bc4c00">Repos:</text>
+    <text id="repo_data" x="380" y="361" fill="#0969da">0</text>
+
+    <text x="430" y="361" fill="#bc4c00">Stars:</text>
+    <text id="star_data" x="495" y="361" fill="#0969da">0</text>
+
+    <text x="545" y="361" fill="#bc4c00">Commits:</text>
+    <text id="commit_data" x="635" y="361" fill="#0969da">0</text>
+
+    <text x="680" y="361" fill="#bc4c00">Followers:</text>
+    <text id="follower_data" x="775" y="361" fill="#0969da">0</text>
+  </g>
+</svg>
