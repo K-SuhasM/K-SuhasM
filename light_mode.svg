@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
-  <rect x="1" y="1" width="898" height="428" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+  <rect x="1" y="1" width="898" height="428" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2" />
 
  <g font-family="monospace" font-size="13">
 
@@ -59,7 +59,7 @@
     <text id="commit_data" x="510" y="371" fill="#296a9f">149</text>
 
     <text x="560" y="371" fill="#b7502d"> Followers:</text>
-    <text id="follower_data" x="635" y="371" fill="#296a9f">29</text>
+    <text id="follower_data" x="649" y="371" fill="#296a9f">29</text>
 
     <text x="20" y="414" fill="#b7502d">Last manual update: 30-08-26</text>
   </g>
