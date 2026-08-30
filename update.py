@@ -63,6 +63,9 @@ commits = data[
 
 
 def update_svg(filename):
+
+    ET.register_namespace("", "http://www.w3.org/2000/svg")
+    
     tree = ET.parse(filename)
     root = tree.getroot()
 
@@ -70,8 +73,7 @@ def update_svg(filename):
         "repo_data": repositories,
         "commit_data": commits,
         "star_data": stars,
-        "follower_data": followers,
-        "loc_data": 0
+        "follower_data": followers
     }
 
     for element in root.iter():
@@ -83,6 +85,7 @@ def update_svg(filename):
     tree.write(
         filename,
         encoding="unicode"
+        xml_declaration=True
     )
 
 
