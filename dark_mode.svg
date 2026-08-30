@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect x="1" y="1" width="898" height="428" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2" />
 
   <g font-family="monospace" font-size="13">
@@ -63,6 +64,61 @@
 
     <text x="20" y="414" fill="#fda354">Last manual update: 30-08-26</text>
 
-    
+    <!-- RIGHT SIDE ICONS -->
+
+<!-- Python -->
+<image x="705" y="80" width="40" height="40"
+       href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+
+<!-- Backbone.js -->
+<image x="755" y="80" width="40" height="40"
+       href="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg"
+       xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg"/>
+
+<!-- CSS3 -->
+<image x="805" y="80" width="40" height="40"
+       href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+       xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+
+<!-- Git -->
+<image x="855" y="80" width="40" height="40"
+       href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+       xlink:href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+
+<!-- HTML5 -->
+<image x="905" y="80" width="40" height="40"
+       href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+       xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+
+<!-- JavaScript -->
+<image x="680" y="130" width="40" height="40"
+       href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+       xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+
+<!-- Linux -->
+<image x="725" y="130" width="40" height="40"
+       href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+       xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+
+<!-- MySQL -->
+<image x="770" y="130" width="40" height="40"
+       href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+
+<!-- Claude -->
+<image x="815" y="130" width="40" height="40"
+       href="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white"
+       xlink:href="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white"/>
+
+<!-- ChatGPT -->
+<image x="860" y="130" width="40" height="40"
+       href="https://cdn.simpleicons.org/openai/ffffff"
+       xlink:href="https://cdn.simpleicons.org/openai/ffffff"/>
   </g>
 </svg>
+
+    
+
+
+
