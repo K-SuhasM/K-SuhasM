@@ -1,65 +1,66 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
-  <ns0:rect x="1" y="1" width="898" height="398" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+  <rect x="1" y="1" width="898" height="428" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2" />
 
- <ns0:g font-family="monospace" font-size="13">
+ <g font-family="monospace" font-size="13">
 
-    <ns0:text x="20" y="30" fill="#161b4c">Koustubh__________________________________________________________________________________</ns0:text>
+    <text x="20" y="30" fill="#161b4c">Koustubh__________________________________________________________________________________</text>
     
-    <ns0:text x="20" y="55" fill="#b7502d">OS:</ns0:text>
-    <ns0:text x="115" y="55" fill="#296a9f">...............................................Windows 11, Android 17, IOS 26</ns0:text>
+    <text x="20" y="55" fill="#b7502d">OS:</text>
+    <text x="115" y="55" fill="#296a9f">...............................................Windows 11, Android 17, IOS 26</text>
 
-    <ns0:text x="20" y="74" fill="#b7502d">Uptime:</ns0:text>
-    <ns0:text x="115" y="74" fill="#296a9f">..........................................................21 years, 11 months</ns0:text>
+    <text x="20" y="74" fill="#b7502d">Uptime:</text>
+    <text x="115" y="74" fill="#296a9f">..........................................................21 years, 11 months</text>
 
-    <ns0:text x="20" y="112" fill="#b7502d">IDE:</ns0:text>
-    <ns0:text x="115" y="112" fill="#296a9f"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ .........................................................VSCode 1.134</ns0:text>
+    <text x="20" y="112" fill="#b7502d">IDE:</text>
+    <text x="115" y="112" fill="#296a9f"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ .........................................................VSCode 1.134</text>
 
-    <ns0:text x="20" y="131" fill="#b7502d">Tools:</ns0:text>
-    <ns0:text x="115" y="131" fill="#296a9f"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ..................................................Claude, Git, Github</ns0:text>
+    <text x="20" y="131" fill="#b7502d">Tools:</text>
+    <text x="115" y="131" fill="#296a9f"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ..................................................Claude, Git, Github</text>
 
-    <ns0:text x="20" y="150" fill="#b7502d">Certifications:                            </ns0:text>
-    <ns0:text x="115" y="150" fill="#296a9f">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ........................Google, ISRO, Claude, IBM, Tata, ML w Python</ns0:text>
+    <text x="20" y="150" fill="#b7502d">Certifications:                            </text>
+    <text x="115" y="150" fill="#296a9f">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ........................Google, ISRO, Claude, IBM, Tata, ML w Python</text>
     
-    <ns0:text x="20" y="188" fill="#b7502d">Languages.Programming:</ns0:text>
-    <ns0:text x="265" y="188" fill="#296a9f">...............................................Python, C</ns0:text>
+    <text x="20" y="188" fill="#b7502d">Languages.Programming:</text>
+    <text x="265" y="188" fill="#296a9f">...............................................Python, C</text>
 
-    <ns0:text x="20" y="207" fill="#b7502d">Languages.Computer:</ns0:text>
-    <ns0:text x="265" y="207" fill="#296a9f">..........................................HTML, CSS, SQL</ns0:text>
+    <text x="20" y="207" fill="#b7502d">Languages.Computer:</text>
+    <text x="265" y="207" fill="#296a9f">..........................................HTML, CSS, SQL</text>
 
-    <ns0:text x="20" y="226" fill="#b7502d">Languages.Real:</ns0:text>
-    <ns0:text x="265" y="226" fill="#296a9f">.................................English, Hindi, Marathi</ns0:text>
+    <text x="20" y="226" fill="#b7502d">Languages.Real:</text>
+    <text x="265" y="226" fill="#296a9f">.................................English, Hindi, Marathi</text>
 
-    <ns0:text x="20" y="245" fill="#b7502d">Hobbies.Software:</ns0:text>
-    <ns0:text x="265" y="245" fill="#296a9f">....................................Programming, Modding</ns0:text>
+    <text x="20" y="245" fill="#b7502d">Hobbies.Software:</text>
+    <text x="265" y="245" fill="#296a9f">....................................Programming, Modding</text>
 
-    <ns0:text x="20" y="264" fill="#b7502d">Hobbies.Hardware:</ns0:text>
-    <ns0:text x="265" y="264" fill="#296a9f">...............................PC Building, Overclocking</ns0:text>
+    <text x="20" y="264" fill="#b7502d">Hobbies.Hardware:</text>
+    <text x="265" y="264" fill="#296a9f">...............................PC Building, Overclocking</text>
 
-    <ns0:text x="20" y="289" fill="#161b4c">Contact___________________________________________________________________________________</ns0:text>
+    <text x="20" y="289" fill="#161b4c">Contact___________________________________________________________________________________</text>
 
-    <ns0:text x="20" y="314" fill="#b7502d">Email.Personal:</ns0:text>
-    <ns0:text x="185" y="314" fill="#296a9f">............................................k.suhasmandle@gmail.com</ns0:text>
+    <text x="20" y="314" fill="#b7502d">Email.Personal:</text>
+    <text x="185" y="314" fill="#296a9f">............................................k.suhasmandle@gmail.com</text>
 
-    <ns0:text x="20" y="333" fill="#b7502d">LinkedIn:</ns0:text>
-    <ns0:text x="185" y="333" fill="#296a9f">..............................................koustubh-suhas-mandle</ns0:text>
+    <text x="20" y="333" fill="#b7502d">LinkedIn:</text>
+    <text x="185" y="333" fill="#296a9f">..............................................koustubh-suhas-mandle</text>
 
-    <ns0:text x="20" y="352" fill="#b7502d">Instagram:</ns0:text>
-    <ns0:text x="185" y="352" fill="#296a9f">..............................................koustubh_suhas_mandle</ns0:text>
+    <text x="20" y="352" fill="#b7502d">Instagram:</text>
+    <text x="185" y="352" fill="#296a9f">..............................................koustubh_suhas_mandle</text>
 
-    <ns0:text x="20" y="371" fill="#b7502d">GitHub Stats -</ns0:text>
+    <text x="20" y="371" fill="#b7502d">GitHub Stats -</text>
 
-    <ns0:text x="202" y="371" fill="#b7502d">Repos:</ns0:text>
-    <ns0:text id="repo_data" x="265" y="371" fill="#296a9f">8</ns0:text>
+    <text x="202" y="371" fill="#b7502d">Repos:</text>
+    <text id="repo_data" x="265" y="371" fill="#296a9f">8</text>
 
-    <ns0:text x="317" y="371" fill="#b7502d">Stars:</ns0:text>
-    <ns0:text id="star_data" x="380" y="371" fill="#296a9f">66</ns0:text>
+    <text x="317" y="371" fill="#b7502d">Stars:</text>
+    <text id="star_data" x="380" y="371" fill="#296a9f">66</text>
 
-    <ns0:text x="430" y="371" fill="#b7502d">Commits:</ns0:text>
-    <ns0:text id="commit_data" x="510" y="371" fill="#296a9f">149</ns0:text>
+    <text x="430" y="371" fill="#b7502d">Commits:</text>
+    <text id="commit_data" x="510" y="371" fill="#296a9f">149</text>
 
-    <ns0:text x="560" y="371" fill="#b7502d"> Followers:</ns0:text>
-    <ns0:text id="follower_data" x="635" y="371" fill="#296a9f">29</ns0:text>
+    <text x="560" y="371" fill="#b7502d"> Followers:</text>
+    <text id="follower_data" x="635" y="371" fill="#296a9f">29</text>
 
-    <ns0:text x="20" y="414" fill="#b7502d">Last manual update: 30-08-26</ns0:text>
-  </ns0:g>
-</ns0:svg>
+    <text x="20" y="414" fill="#b7502d">Last manual update: 30-08-26</text>
+  </g>
+</svg>
