@@ -84,7 +84,7 @@ def update_svg(filename):
 
     tree.write(
         filename,
-        encoding="unicode"
+        encoding="unicode",
         xml_declaration=True
     )
 
