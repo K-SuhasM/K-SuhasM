@@ -59,7 +59,7 @@
     <text id="commit_data" x="510" y="371" fill="#296a9f">166</text>
 
     <text x="560" y="371" fill="#b7502d"> Followers:</text>
-    <text id="follower_data" x="649" y="371" fill="#296a9f">29</text>
+    <text id="follower_data" x="649" y="371" fill="#296a9f">27</text>
 
     <text x="20" y="414" fill="#161b4c">Last manual update:...............................................................30-08-26</text>
   </g>
