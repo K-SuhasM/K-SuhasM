@@ -56,7 +56,7 @@
     <text id="star_data" x="380" y="371" fill="#296a9f">65</text>
 
     <text x="430" y="371" fill="#fda354">Commits:</text>
-    <text id="commit_data" x="510" y="371" fill="#296a9f">169</text>
+    <text id="commit_data" x="510" y="371" fill="#296a9f">182</text>
 
     <text x="560" y="371" fill="#fda354"> Followers:</text>
     <text id="follower_data" x="649" y="371" fill="#296a9f">27</text>
