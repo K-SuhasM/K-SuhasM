@@ -53,7 +53,7 @@
     <text id="repo_data" x="265" y="371" fill="#296a9f">8</text>
 
     <text x="317" y="371" fill="#b7502d">Stars:</text>
-    <text id="star_data" x="380" y="371" fill="#296a9f">65</text>
+    <text id="star_data" x="380" y="371" fill="#296a9f">66</text>
 
     <text x="430" y="371" fill="#b7502d">Commits:</text>
     <text id="commit_data" x="510" y="371" fill="#296a9f">201</text>
