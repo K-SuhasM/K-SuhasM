@@ -53,13 +53,13 @@
     <text id="repo_data" x="265" y="371" fill="#296a9f">8</text>
 
     <text x="317" y="371" fill="#fda354">Stars:</text>
-    <text id="star_data" x="380" y="371" fill="#296a9f">77</text>
+    <text id="star_data" x="380" y="371" fill="#296a9f">76</text>
 
     <text x="430" y="371" fill="#fda354">Commits:</text>
     <text id="commit_data" x="510" y="371" fill="#296a9f">219</text>
 
     <text x="560" y="371" fill="#fda354"> Followers:</text>
-    <text id="follower_data" x="649" y="371" fill="#296a9f">27</text>
+    <text id="follower_data" x="649" y="371" fill="#296a9f">28</text>
 
     <text x="20" y="414" fill="#bcc9d6">Last manual update:...............................................................30-08-26</text>
 
